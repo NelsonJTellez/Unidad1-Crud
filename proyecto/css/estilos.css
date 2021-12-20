@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  padding: 0;
+
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 11%,
+    rgba(37, 23, 117, 0.8407738095238095) 51%,
+    rgba(0, 212, 255, 1) 100%
+  );
+}
+
+#titulos {
+  background-color: #ccc;
+}
+
+.fondo {
+  width: 1270px;
+  padding: 20px;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-top: 25px;
+}
